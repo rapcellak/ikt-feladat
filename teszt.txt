@@ -1,1 +1,2 @@
 Első Git fájlom
+Új sor hozzáadva
